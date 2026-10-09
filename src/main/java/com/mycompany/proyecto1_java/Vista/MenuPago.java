@@ -5,7 +5,7 @@
 package com.mycompany.proyecto1_java.Vista;
 
 
-import com.mycompany.proyecto1_java.Controlador.PagoControlador;
+import com.mycompany.proyecto1_java.Controlador.GestorPagos;
 import java.util.Scanner;
 
 public class MenuPago {
@@ -36,26 +36,26 @@ public class MenuPago {
 
             switch (opcion) {
                 case 1:
-                    PagoControlador.registrarPago(sc);
+                    GestorPagos.registrarPago(sc);
                     break;
 
                 case 2:
-                    PagoControlador.listarPagos();
+                    GestorPagos.listarPagos();
                     break;
 
                 case 3:
-                    PagoControlador.buscarPago(sc);
+                    GestorPagos.buscarPago(sc);
                     break;
                 case 4:
-                    PagoControlador.verHistorialPagos(sc);
+                    GestorPagos.verHistorialPagos(sc);
                     break;
 
                 case 5:
-                    PagoControlador.consultarSaldoPendiente(sc);
+                    GestorPagos.consultarSaldoPendiente(sc);
                     break;
 
                 case 6:
-                    PagoControlador.eliminarPago(sc);
+                    GestorPagos.eliminarPago(sc);
                     break;
 
                 case 0:

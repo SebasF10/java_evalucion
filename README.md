@@ -87,3 +87,35 @@ A continuación se encuentra el espacio destinado para el diagrama de clases UML
 ![Diagrama UML](ProyectoJavaSebas.drawio.png)
 
 ---
+
+
+# Funcionamiento evaluacion
+
+Para poder comprobar el funcionamiento
+
+1. Ejecutas el codigo y eljes la opcion numero 4 en el main para poder ejecutar pagos
+
+2. dentro de pagos podras ver:
+    1. Registrar pago
+    2. Listar pagos
+    3. Buscar pago
+    4. Ver historial de pagos
+    5. Consultar saldo pendiente
+    6. Eliminar pago
+    0. salir
+
+- Opcion 1: Podras registar los pagos segun el id y los datos que te pidan
+
+- Opcion 2: Podras listar los pagos que se encuentren en la base de datos
+
+- Opcion 3: Podras buscar un pago especifico segun la ID de clientre
+
+- Opcion 4: Podras ver el historial de los pagos realizados de un prestamo que elejimos por la ID
+
+- Opcion 5: Podras consultar el saldo pendiente a pagar de un prestamso elejido
+
+- Opcion 6: Podras eliminar un pago realizado segun la id que elejimos 
+
+Se realizaron las modificaciones pedidas con los nombres y las especificaones pero de resto es la misma logica
+
+![foto](image.png)

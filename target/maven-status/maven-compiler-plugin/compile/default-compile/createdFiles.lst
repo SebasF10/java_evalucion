@@ -1,6 +1,5 @@
 com\mycompany\proyecto1_java\Modelo\Clases\Persona.class
 com\mycompany\proyecto1_java\Vista\MenuReporte.class
-com\mycompany\proyecto1_java\Controlador\PagoControlador.class
 com\mycompany\proyecto1_java\Controlador\PrestamoControlador.class
 com\mycompany\proyecto1_java\Controlador\ClienteControlador.class
 com\mycompany\proyecto1_java\Vista\MenuPago.class
