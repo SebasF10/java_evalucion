@@ -1,0 +1,15 @@
+-------- PRESTAMOS CREDIYA --------
+
+ID prestamo: 1
+ID cliente: 1
+ID empleado: 1
+Monto: $4400000.0
+Interes: 4.0%
+Cuotas: 24
+Fecha inicio: 2026-09-10
+Estado: VENCIDOS
+Monto total: $4576000.0
+Valor cuota: $190666.67
+Saldo pendiente: $4343677.0
+Fecha vencimiento: 2027-10-03
+----------------------------

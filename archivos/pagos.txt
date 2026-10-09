@@ -1,0 +1,7 @@
+------- PAGOS CREDIYA --------
+
+ID pago: 1
+ID préstamo: 1
+Fecha de pago: 2026-10-03
+Monto: $232323.0
+----------------------------

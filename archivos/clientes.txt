@@ -1,0 +1,14 @@
+--------- CLIENTES CREDIYA ----------
+
+ID: 1
+Nombre: heiling
+Documento: 1111
+Correo: sed@gmail.com
+Teléfono: 232323232
+----------------------------
+ID: 2
+Nombre: nicolas
+Documento: 32324353
+Correo: nicolas@gmail.com
+Teléfono: 5788765
+----------------------------
