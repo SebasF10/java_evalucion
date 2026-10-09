@@ -12,3 +12,15 @@ Documento: 32324353
 Correo: nicolas@gmail.com
 Teléfono: 5788765
 ----------------------------
+ID: 3
+Nombre: pedro
+Documento: 8848485
+Correo: pedro@gmail.com
+Teléfono: 23244566
+----------------------------
+ID: 4
+Nombre: pedro
+Documento: 8848485
+Correo: pedro@gmail.com
+Teléfono: 2
+----------------------------

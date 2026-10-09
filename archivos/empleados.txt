@@ -14,3 +14,10 @@ Rol: ayudante
 Correo: juan@gmail.com
 Salario: $2.0
 ----------------------------
+ID: 3
+Nombre: pedro
+Documento: 567890
+Rol: empleado
+Correo: pedro@gmail.com
+Salario: $50000.0
+----------------------------
